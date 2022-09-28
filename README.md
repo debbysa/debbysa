@@ -10,7 +10,7 @@
 const introduceMySelf = {
   pronouns: "she" | "her",
   from: "Indonesia",
-  programming language: [Node JS, Typescript, Javascript, Golang],
+  programming_language: [Node JS, Typescript, Javascript, Golang],
   database: [Postgresql, MySQL, MongoDB]
 }
 ```
