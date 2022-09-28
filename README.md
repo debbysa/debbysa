@@ -4,6 +4,16 @@
 
 [![Linkedin: debbysa](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/debysilviaagnes/)](https://www.linkedin.com/in/debysilviaagnes/)
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  programming language: [Node JS, Typescript, Javascript, Golang],
+  database: [Postgresql, MySQL, MongoDB]
+}
+```
+
 <!--
 **debbysa/debbysa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
