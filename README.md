@@ -1,5 +1,5 @@
-### Hi there 👋
-<h2> Hi, I'm Deby Silvia A! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<!-- ### Hi there 👋 -->
+## Hi, I'm Deby Silvia A! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <img align='right' src="https://media.giphy.com/media/ltTD7JQs5N2HNdOfjS/giphy.gif" width="230">
 
 [![Linkedin: debbysa](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/debysilviaagnes/)](https://www.linkedin.com/in/debysilviaagnes/)
